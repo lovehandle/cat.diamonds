@@ -62,7 +62,7 @@ textarea {
    ========================================================================== */
 
 body {
-  background: #000 url(/img/me.jpg) repeat left top;
+  background: #000 url(../img/me.jpg) repeat left top;
 }
 
 #main {
